@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(130,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(130,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(135,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(135,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(140,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(140,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(145,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(145,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(150,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(150,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(155,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Project\pacman\pacman\main.cpp(155,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pacman.vcxproj -> C:\Users\user\Desktop\Project\pacman\x64\Debug\pacman.exe
